@@ -8,3 +8,5 @@ This is an example application on how to search for movies with [OMDB API](http:
 * [Glide](https://github.com/bumptech/glide)
 * [MOSHI](https://github.com/square/moshi)
 * [ROOM JetPack](https://developer.android.com/jetpack/androidx/releases/room)
+# ScreenShot
+<img src="https://github.com/condorserg/OMDB/blob/master/Screenshot.png" width="225">
