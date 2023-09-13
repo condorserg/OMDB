@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OMDB</string>
+    <string name="title_search">Search</string>
+    <string name="title_db_movies">DB Movies</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="radio_movie">Movie</string>
+    <string name="radio_Series">Series</string>
+    <string name="radio_Episode">Episode</string>
+    <string name="movie_search_hint">Type Movie Title</string>
+    <string name="snackbar_action_text">Try Again</string>
+    <string name="snackbar_text">There is no connection to the server, movies from the database are shown</string>
+    <string name="db_movies_fragment_title">DB Movies List</string>
+    <string name="title_info">Info</string>
+    <string name="info_fragment">Info Fragment</string>
+</resources>
